@@ -1,7 +1,11 @@
 # GoDB
 
-A NoSQL Database based on Json files written in Go. <br>
-Below mentioned API endpoints can be used to manage the database.
+A NoSQL Database written in Go.
+
+## Key Features
+
+- Mutex is used for synchronization
+- JSON files are used to store documents
 
 ## How To Use
 
