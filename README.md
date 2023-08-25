@@ -6,6 +6,7 @@ A NoSQL Database written in Go.
 
 - Mutex is used for synchronization
 - JSON files are used to store documents
+- Database operations can be managed by calling the provided Rest APIs
 
 ## How To Use
 
