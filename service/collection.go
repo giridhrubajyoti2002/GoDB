@@ -8,5 +8,5 @@ func CreateCollection(cluster string, collection string) error {
 	return repository.CreateCollection(cluster, collection)
 }
 func DeleteCollection(cluster string, collection string) error {
-	return repository.CreateCollection(cluster, collection)
+	return repository.DeleteCollection(cluster, collection)
 }
